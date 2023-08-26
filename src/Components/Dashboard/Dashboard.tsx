@@ -2,7 +2,7 @@ import React from "react";
 
 const Dashboard = () => {
     return (
-        <div className="flex flex-col justify-center items-center">
+        <div className="flex flex-col justify-center items-center bg-slate-900">
             <h1 className="text-white pb-4">Welcome to your page, John!</h1>
             <div className="flex gap-4 pb-4 font-bold">
                 <button className="border-white border-4 p-6 hover:bg-pink-500">
@@ -29,13 +29,8 @@ const Dashboard = () => {
             <div className="flex flex-col items-center justify-center p-2 w-[400px]">
                 <h1 className="font-bold mb-2">About Me:</h1>
                 <p className="">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Voluptatem quisquam vitae facere perspiciatis? Obcaecati
-                    necessitatibus voluptate ad quaerat ullam, vel recusandae
-                    unde ipsam dolorem quia assumenda, numquam sapiente commodi.
-                    Repellat, a soluta deleniti corrupti voluptas perspiciatis,
-                    fuga ea laborum nam porro magni ipsa sequi adipisci maiores
-                    labore perferendis hic natus!
+                    Hello guys, my name is John! I'm a 2nd year student at
+                    Universi
                 </p>
             </div>
             <div className="flex flex-col items-center justify-center p-2 w-[400px]">
@@ -45,7 +40,8 @@ const Dashboard = () => {
                     🍲 favorite food: <br />
                     ⚽ favorite sport: <br />
                     🎨 favorite color: <br />
-                    hobbies: <br />
+                    💼 university / work: <br />
+                    🪀 hobbies: <br />
                 </p>
             </div>
         </div>
