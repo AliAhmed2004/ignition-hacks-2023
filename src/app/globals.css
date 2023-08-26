@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+@layer components {
+  .sidebar {
+    transition: all 0.4s ease-in-out;
+  }
+}
