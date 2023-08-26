@@ -5,7 +5,7 @@ const Dashboard = () => {
         <div className="flex flex-col justify-center items-center">
             <h1 className="text-white pb-4">Welcome to your page, John!</h1>
             <div className="flex gap-4 pb-4 font-bold">
-                <button className="border-white border-4 p-6 hover:bg-fuchsia-500">
+                <button className="border-white border-4 p-6 hover:bg-pink-500">
                     Instagram
                 </button>
                 <button className="border-white border-4 p-6 hover:bg-blue-500">
@@ -36,6 +36,16 @@ const Dashboard = () => {
                     Repellat, a soluta deleniti corrupti voluptas perspiciatis,
                     fuga ea laborum nam porro magni ipsa sequi adipisci maiores
                     labore perferendis hic natus!
+                </p>
+            </div>
+            <div className="flex flex-col items-center justify-center p-2 w-[400px]">
+                <h1 className="font-bold mb-2">Current Activity:</h1>
+                <p className="">
+                    🗺️ frequented locations: <br />
+                    🍲 favorite food: <br />
+                    ⚽ favorite sport: <br />
+                    🎨 favorite color: <br />
+                    hobbies: <br />
                 </p>
             </div>
         </div>
