@@ -42,13 +42,13 @@ const Dashboard = () => {
                 <p className="">
                     🗺️ frequented locations: California
                     <br />
-                    🍲 favorite food: Boba tea
+                    🍲 favorite food: shawarma
                     <br />
                     ⚽ favorite sport: badminton
                     <br />
                     🎨 favorite color: green
                     <br />
-                    💼 university / work: WLU / intern @ <br />
+                    💼 university / work: WLU <br />
                     🪀 hobbies: hiking, cooking, and woodworking
                     <br />
                 </p>
