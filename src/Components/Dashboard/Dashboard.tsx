@@ -31,7 +31,7 @@ const Dashboard = () => {
             <div className="flex flex-col items-center justify-center p-2 w-[400px]">
                 <h1 className="font-bold mb-2">About Me:</h1>
                 <p className="">
-                    Hello guys, my name is John! I'm a 2nd year student at
+                    Hello guys, my name is Bob! I'm a 2nd year student at
                     Wilfrid Laurier University, studying Computer Science with a
                     minor in finance. I recently went on a trip with my friends
                     to California! We visisted the Metagooglzon headquarters.
