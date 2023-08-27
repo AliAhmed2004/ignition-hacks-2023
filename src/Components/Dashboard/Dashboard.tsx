@@ -3,9 +3,7 @@ import React from "react";
 const Dashboard = () => {
     return (
         <div className="flex flex-col justify-center items-center bg-slate-900">
-            <h1 className="text-white pb-4 mt-8">
-                Welcome to your page, John!
-            </h1>
+            <h1 className="text-white pb-4 mt-8">Welcome to your page, Bob!</h1>
             <div className="flex gap-4 pb-4 font-bold">
                 <button className="border-white border-4 p-6 hover:bg-pink-500">
                     Instagram
